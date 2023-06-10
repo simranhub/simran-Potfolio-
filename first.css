@@ -29,6 +29,15 @@ body{
     margin-left: 55px;
     margin-right: 25px;
 }
+.coral-a{
+    color: rgb(250, 124, 78);
+    transition: all .3s ease-in-out;
+}
+.coral-a:hover{
+    font-size: 16.2px;
+    color:rgb(255, 5, 17);
+    transition: all .3s ease-in-out;
+}
 .qualification{
     letter-spacing: 1px;
     color: black;
